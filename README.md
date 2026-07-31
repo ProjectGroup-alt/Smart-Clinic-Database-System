@@ -1,5 +1,5 @@
 # Smart Clinic Database System
-
+« System Description » 
 A normalized MySQL database for a fictional private outpatient clinic in the Kingdom of Saudi Arabia. The system manages patients, staff, appointments, treatments, prescriptions, medicine inventory, and payments.
 
 ## Team Members
