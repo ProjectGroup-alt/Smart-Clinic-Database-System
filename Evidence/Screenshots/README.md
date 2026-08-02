@@ -1,0 +1,34 @@
+# Screenshot Evidence Index
+
+- `01_SHOW_TABLES.jpg` - original file `1000370695.jpg`
+- `02_PERSON_TABLE.jpg` - original file `1000370702.jpg`
+- `03_PATIENT_TABLE.jpg` - original file `1000370705.jpg`
+- `04_EMPLOYEE_TABLE.jpg` - original file `1000370710.jpg`
+- `05_DOCTOR_TABLE.jpg` - original file `1000370711.jpg`
+- `06_RECEPTIONIST_TABLE.jpg` - original file `1000370717.jpg`
+- `07_APPOINTMENT_TABLE.jpg` - original file `1000370723.jpg`
+- `08_TREATMENT_TABLE.jpg` - original file `1000370722.jpg`
+- `09_MEDICINE_TABLE.jpg` - original file `1000370732.jpg`
+- `10_PRESCRIPTION_TABLE.jpg` - original file `1000370733.jpg`
+- `11_PRESCRIPTION_ITEM_TABLE.jpg` - original file `1000370734.jpg`
+- `12_PAYMENT_TABLE.jpg` - original file `1000370737.jpg`
+- `13_BASIC_SELECT.jpg` - original file `1000370746.jpg`
+- `14_JOIN_QUERY.jpg` - original file `1000370751.jpg`
+- `15_NESTED_QUERY.jpg` - original file `1000370757.jpg`
+- `16_GROUP_BY_AGGREGATE.jpg` - original file `IMG-20260724-WA0030.jpg`
+- `17_UPDATE_RESULT.jpg` - original file `1000370997.jpg`
+- `18_DELETE_RESULT.jpg` - original file `1000371006.jpg`
+- `19_ROLLBACK_RESTORATION.jpg` - original file `1000371010.jpg`
+- `20_CREATE_VIEW_CODE.jpg` - original file `1000371166.jpg`
+- `21_VIEW_RESULT.jpg` - original file `1000371018.jpg`
+- `22_CREATE_TRIGGER_CODE.jpg` - original file `1000371140.jpg`
+- `23_TRIGGER_BEFORE_STOCK.jpg` - original file `1000371053.jpg`
+- `24_TRIGGER_AFTER_STOCK.jpg` - original file `1000371052.jpg`
+- `25_TRIGGER_ROLLBACK.jpg` - original file `1000371056.jpg`
+- `26_SHOW_TRIGGERS.jpg` - original file `1000371026.jpg`
+- `27_CREATE_DATABASE_PERSON.jpg` - original file `1000371133.jpg`
+- `28_CREATE_EMPLOYEE_DOCTOR_RECEPTIONIST.jpg` - original file `1000371135.jpg`
+- `29_CREATE_APPOINTMENT.jpg` - original file `1000371136.jpg`
+- `30_CREATE_TREATMENT_MEDICINE.jpg` - original file `1000371137.jpg`
+- `31_CREATE_PRESCRIPTION_ITEM.jpg` - original file `1000371138.jpg`
+- `32_CREATE_PAYMENT_TRIGGER_START.jpg` - original file `1000371139.jpg`
